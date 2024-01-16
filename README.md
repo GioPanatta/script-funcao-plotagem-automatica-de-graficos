@@ -31,5 +31,4 @@ Exemplo: python nome_do_script.py JAN
  Os gráficos são salvos em um diretório específico, criado automaticamente pelo script com base na data mais recente
  presente no conjunto de dados.
 
- Este script é uma ferramenta valiosa para a análise rápida e visualização de dados do SINASC, facilitando a compreensão
-# de tendências e padrões em nascimentos registrados.
+ Este script é uma ferramenta valiosa para a análise rápida e visualização de dados do SINASC, facilitando a compreensão de tendências e padrões em nascimentos registrados.
