@@ -12,7 +12,7 @@ O script está salvo como um arquivo `.py` e é projetado para processar e visua
 
 # Uso
 Para executar o script, é necessário passar o mês de referência como argumento na linha de comando. 
-Exemplo python nome_do_script.py JAN
+Exemplo: python nome_do_script.py JAN
 
 # Argumentos
  - `sys.argv[1]`: Mês de referência para análise (ex.: JAN, FEV, MAR, etc.).
